@@ -206,7 +206,7 @@
             </div>
             <p id="contact">&copy; Amulet thailand official 2021 All Rights Reserved.</p>
             <div class="maybeyouwant">
-            สิ่งที่คุณอาจจะสนใจ...<a href="visit/maybe.html">ClickMe</a>
+            สิ่งที่คุณอาจจะสนใจ...<a href="visit/maybe.html" target='_blank'>ClickMe</a>
         </div>
         </div>
     </div>
