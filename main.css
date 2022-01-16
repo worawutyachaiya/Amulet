@@ -857,7 +857,6 @@ marquee{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-gap: 1rem;
-    position: relative;
 }
 .container_result .content .picture img{
     width: 300px;
