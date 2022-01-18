@@ -161,7 +161,6 @@ marquee{
     transform: translate(0,-10px);
     transition: all 0.3s ease;
     cursor: not-allowed;
-    background: #797878;
 }
 .popular .content .picture img:active{
     cursor: not-allowed;
@@ -307,7 +306,6 @@ marquee{
 }
 .shop .content .picture img:hover{
     box-shadow: none;
-    background: #797878;
     transform: translate(0,-10px);
     transition: all 0.3s ease;
     cursor: not-allowed;
