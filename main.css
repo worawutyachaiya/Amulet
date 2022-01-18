@@ -161,6 +161,7 @@ marquee{
     transform: translate(0,-10px);
     transition: all 0.3s ease;
     cursor: not-allowed;
+    background: #797878;
 }
 .popular .content .picture img:active{
     cursor: not-allowed;
@@ -223,7 +224,7 @@ marquee{
 }
 .howtobuy{
     margin-top: 70px;
-    background:#1e1e1e;
+    /* background:#1e1e1e; */
     height: 600px;
     text-align:center;
     padding-top: 30px;
@@ -306,6 +307,7 @@ marquee{
 }
 .shop .content .picture img:hover{
     box-shadow: none;
+    background: #797878;
     transform: translate(0,-10px);
     transition: all 0.3s ease;
     cursor: not-allowed;
