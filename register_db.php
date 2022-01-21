@@ -42,7 +42,7 @@
         }
 
         if (count($errors) == 0) {
-            $password = md5($password_1);
+            $password = md5($password_1); //md5 คือการเข้ารหัสผ่านของรหัสผ่าน
 
             $sql = "INSERT INTO users (username, email, password) VALUES ('$username', '$email', '$password')";
             mysqli_query($conn, $sql);
