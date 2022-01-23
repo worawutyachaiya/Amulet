@@ -95,7 +95,7 @@
                 </div>
             </div>
             <div id="howtobuy"></div>
-            <div class="howtobuy" id="bghowtobuy">
+            <div class="howtobuy">
                 <div class="content">
                     <div class="howtitle">วิธีการสั่งซื้อ(How to buy)</div>
                 </div>
@@ -210,20 +210,6 @@
         </div>
         </div>
     </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r121/three.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/vanta@latest/dist/vanta.net.min.js"></script>
-    <script>
-        VANTA.NET({
-        el: "#bghowtobuy",
-        mouseControls: true,
-        touchControls: true,
-        gyroControls: false,
-        minHeight: 200.00,
-        minWidth: 200.00,
-        scale: 1.00,
-        scaleMobile: 1.00
-        })
-    </script>
     <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
     <script>
             document.getElementById('c_pic').addEventListener('click', function(){
